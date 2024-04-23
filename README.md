@@ -1,7 +1,8 @@
 # SmokeDetector / EN / DE / FR
 
 
-**Overview** **English**
+**English**
+**Overview** 
 SmokeDetector is an innovative smoke detection system crafted for smart homes, leveraging the Arduino Nano platform. It efficiently identifies smoke using an MQ7 sensor and preemptively detects flames with an IR sensor, prioritizing safety before smoke becomes visible.
 
 **Key Features**
@@ -25,7 +26,8 @@ Regular maintenance is crucial to keep your SmokeDetector in optimal working con
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Überblick** **Deutsch**
+**Deutsch**
+**Überblick**
 SmokeDetector ist ein innovatives Rauchmeldesystem, das für Smart Homes entwickelt wurde und die Arduino Nano-Plattform nutzt. Es erkennt Rauch effizient mithilfe eines MQ7-Sensors und erkennt Flammen präventiv mit einem IR-Sensor, um die Sicherheit zu verbessern, bevor Rauch sichtbar wird.
 
 **Hauptmerkmale**
@@ -50,7 +52,8 @@ Regelmäßige Wartung ist wichtig, um Ihren SmokeDetector in optimaler Betriebsz
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Aperçu** **Français**
+**Français**
+**Aperçu** 
 SmokeDetector est un système de détection de fumée innovant conçu pour les maisons intelligentes, utilisant la plateforme Arduino Nano. Il identifie efficacement la fumée à l'aide d'un capteur MQ7 et détecte de manière préventive les flammes avec un capteur IR, en priorisant la sécurité avant que la fumée ne devienne visible.
 
 **Principales fonctionnalités**
